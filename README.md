@@ -19,6 +19,11 @@ Have a day full of JOY today.
 ﹏﹏﹏﹏﹏﹏﹏
 
 <br/><br/>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangMin-2&layout=compact&theme=dark)
+ 
+ 
+ 
+ 
  
 <h3>💻 Tech Stack 💻</h3>
  
